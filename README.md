@@ -3,10 +3,10 @@
 <p align="center">
     <a href="https://github.com/edwardqin-creator/edwardqin-creator"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
-<!--     <a href="https://github.com/edwardqin-creator/edwardqin-creator/graphs/contributors"><img src="https://img.shields.io/github/contributors/edwardqin-creator/edwardqin-creator?color=blue"></a>
-    <a href="https://github.com/edwardqin-creator/edwardqin-creator/stargazers"><img src="https://img.shields.io/github/stars/edwardqin-creator/edwardqin-creator.svg?logo=github"></a> -->
-    <a href="https://github.com/edwardqin-creator/edwardqin-creator/network/members"><img src="https://img.shields.io/github/forks/edwardqin-creator/edwardqin-creator.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=edwardqin-creator.edwardqin-creator" alt="visitors"/>   
+    <a href="https://github.com/edwardqin-creator/edwardqin-creator/graphs/contributors"><img src="https://img.shields.io/github/contributors/edwardqin-creator/edwardqin-creator?color=blue"></a>
+<!--     <a href="https://github.com/edwardqin-creator/edwardqin-creator/stargazers"><img src="https://img.shields.io/github/stars/edwardqin-creator/edwardqin-creator.svg?logo=github"></a> 
+    <a href="https://github.com/edwardqin-creator/edwardqin-creator/network/members"><img src="https://img.shields.io/github/forks/edwardqin-creator/edwardqin-creator.svg?color=blue&logo=github"></a> -->
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=edwardqin-creator.edwardqin-creator" alt="visitors"/></a>   
 </p>
 
 [![This is me](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+My+Profile!)](https://git.io/typing-svg)
