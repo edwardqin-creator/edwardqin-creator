@@ -97,6 +97,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
     </a>
 </div>
+
 ### 📈 GitHub Activity Graph:
 
 <!-- [![Edward's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=edwardqin-creator&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph) -->
